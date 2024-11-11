@@ -1,7 +1,5 @@
-### Vishwaraj G.
-### 212223220125
 # Cryptography---19CS415-classical-techqniques
-# Ex-1(d) Rail Fence Cipher
+# Ex-5 Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
 # AIM:
